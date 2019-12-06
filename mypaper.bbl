@@ -1,0 +1,144 @@
+\begin{thebibliography}{22}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Bengio et~al.(2003)Bengio, Ducharme, Vincent, and Jauvin}]{nnlm}
+Bengio, Yoshua, R{\'e}jean Ducharme, Pascal Vincent, and Christian Jauvin.
+  2003.
+\newblock A neural probabilistic language model.
+\newblock \emph{Journal of machine learning research}, 3(Feb):1137--1155.
+
+\bibitem[{Cho et~al.(2014)Cho, Van~Merri{\"e}nboer, Gulcehre, Bahdanau,
+  Bougares, Schwenk, and Bengio}]{gru}
+Cho, Kyunghyun, Bart Van~Merri{\"e}nboer, Caglar Gulcehre, Dzmitry Bahdanau,
+  Fethi Bougares, Holger Schwenk, and Yoshua Bengio. 2014.
+\newblock Learning phrase representations using rnn encoder-decoder for
+  statistical machine translation.
+\newblock \emph{arXiv preprint arXiv:1406.1078}.
+
+\bibitem[{Devlin et~al.(2018)Devlin, Chang, Lee, and Toutanova}]{bert}
+Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2018.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock \emph{arXiv preprint arXiv:1810.04805}.
+
+\bibitem[{Fang and Chen(2013)}]{fang}
+Fang, Ji and Bi~Chen. 2013.
+\newblock Incorporating lexicon knowledge into svm learning to improve
+  sentiment classification.
+\newblock US Patent 8,352,405.
+
+\bibitem[{Giatsoglou et~al.(2017)Giatsoglou, Vozalis, Diamantaras, Vakali,
+  Sarigiannidis, and Chatzisavvas}]{giatsoglou}
+Giatsoglou, Maria, Manolis~G Vozalis, Konstantinos Diamantaras, Athena Vakali,
+  George Sarigiannidis, and Konstantinos~Ch Chatzisavvas. 2017.
+\newblock Sentiment analysis leveraging emotions and word embeddings.
+\newblock \emph{Expert Systems with Applications}, 69:214--224.
+
+\bibitem[{Hinton, Osindero, and Teh(2006)}]{hinton}
+Hinton, Geoffrey~E, Simon Osindero, and Yee-Whye Teh. 2006.
+\newblock A fast learning algorithm for deep belief nets.
+\newblock \emph{Neural computation}, 18(7):1527--1554.
+
+\bibitem[{Hochreiter and Schmidhuber(1997)}]{lstm}
+Hochreiter, Sepp and Jürgen Schmidhuber. 1997.
+\newblock Long short-term memory.
+\newblock \emph{Neural computation}, 9:1735--80.
+
+\bibitem[{Jaderberg et~al.(2015)Jaderberg, Simonyan, Zisserman
+  et~al.}]{transfomer}
+Jaderberg, Max, Karen Simonyan, Andrew Zisserman, et~al. 2015.
+\newblock Spatial transformer networks.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  2017--2025.
+
+\bibitem[{Kalchbrenner, Grefenstette, and Blunsom(2014)}]{kalchbrenner}
+Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. 2014.
+\newblock A convolutional neural network for modelling sentences.
+\newblock \emph{arXiv preprint arXiv:1404.2188}.
+
+\bibitem[{Kim(2014)}]{kim}
+Kim, Yoon. 2014.
+\newblock Convolutional neural networks for sentence classification.
+\newblock \emph{arXiv preprint arXiv:1408.5882}.
+
+\bibitem[{LeCun et~al.(1989)LeCun, Boser, Denker, Henderson, Howard, Hubbard,
+  and Jackel}]{cnn}
+LeCun, Yann, Bernhard Boser, John~S Denker, Donnie Henderson, Richard~E Howard,
+  Wayne Hubbard, and Lawrence~D Jackel. 1989.
+\newblock Backpropagation applied to handwritten zip code recognition.
+\newblock \emph{Neural computation}, 1(4):541--551.
+
+\bibitem[{Liang et~al.(2017)Liang, Liu, Xu, Zhou, and Zhang}]{liangbin}
+Liang, Bin, Q~Liu, J~Xu, Q~Zhou, and P~Zhang. 2017.
+\newblock Aspect-based sentiment analysis based on multi-attention cnn.
+\newblock \emph{Journal of Computer Research and Development. Chinese},
+  54(8):1724--1735.
+
+\bibitem[{Ma et~al.(2017)Ma, Ding, Li, Wang et~al.}]{mali}
+Ma, Li, Wei Ding, Pei Li, Yun Wang, et~al. 2017.
+\newblock Subjective and objective classification based on emotional features.
+\newblock \emph{Journal of Xi'an University of Posts and Telecommunications},
+  (2017 年 04):101--104.
+
+\bibitem[{Pang, Lee, and Vaithyanathan(2002)}]{pang}
+Pang, Bo, Lillian Lee, and Shivakumar Vaithyanathan. 2002.
+\newblock Thumbs up?: sentiment classification using machine learning
+  techniques.
+\newblock In \emph{Proceedings of the ACL-02 conference on Empirical methods in
+  natural language processing-Volume 10}, pages 79--86, Association for
+  Computational Linguistics.
+
+\bibitem[{Pennington, Socher, and Manning(2014)}]{glove}
+Pennington, Jeffrey, Richard Socher, and Christopher Manning. 2014.
+\newblock Glove: Global vectors for word representation.
+\newblock In \emph{Proceedings of the 2014 conference on empirical methods in
+  natural language processing (EMNLP)}, pages 1532--1543.
+
+\bibitem[{Peters et~al.(2018)Peters, Neumann, Iyyer, Gardner, Clark, Lee, and
+  Zettlemoyer}]{elmo}
+Peters, Matthew~E, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark,
+  Kenton Lee, and Luke Zettlemoyer. 2018.
+\newblock Deep contextualized word representations.
+\newblock \emph{arXiv preprint arXiv:1802.05365}.
+
+\bibitem[{Prabowo and Thelwall(2009)}]{prabowo}
+Prabowo, Rudy and Mike Thelwall. 2009.
+\newblock Sentiment analysis: A combined approach.
+\newblock \emph{Journal of Informetrics}, 3(2):143--157.
+
+\bibitem[{Radford et~al.(2018)Radford, Narasimhan, Salimans, and
+  Sutskever}]{gpt}
+Radford, Alec, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. 2018.
+\newblock Improving language understanding by generative pre-training.
+\newblock \emph{URL https://s3-us-west-2. amazonaws.
+  com/openai-assets/researchcovers/languageunsupervised/language understanding
+  paper. pdf}.
+
+\bibitem[{Socher et~al.(2012)Socher, Huval, Manning, and Ng}]{socher}
+Socher, Richard, Brody Huval, Christopher~D Manning, and Andrew~Y Ng. 2012.
+\newblock Semantic compositionality through recursive matrix-vector spaces.
+\newblock In \emph{Proceedings of the 2012 joint conference on empirical
+  methods in natural language processing and computational natural language
+  learning}, pages 1201--1211, Association for Computational Linguistics.
+
+\bibitem[{Yanmei and Yuda(2015)}]{rnn-cnn}
+Yanmei, Liu and Chen Yuda. 2015.
+\newblock Research on chinese micro-blog sentiment analysis based on deep
+  learning.
+\newblock In \emph{2015 8th International Symposium on Computational
+  Intelligence and Design (ISCID)}, volume~1, pages 358--361, IEEE.
+
+\bibitem[{Yi et~al.(2003)Yi, Nasukawa, Bunescu, and Niblack}]{sentiment}
+Yi, Jeonghee, Tetsuya Nasukawa, Razvan Bunescu, and Wayne Niblack. 2003.
+\newblock Sentiment analyzer: Extracting sentiments about a given topic using
+  natural language processing techniques.
+\newblock In \emph{Third IEEE international conference on data mining}, pages
+  427--434, IEEE.
+
+\bibitem[{Zhu, Sobihani, and Guo(2015)}]{sa-lstm}
+Zhu, Xiaodan, Parinaz Sobihani, and Hongyu Guo. 2015.
+\newblock Long short-term memory over recursive structures.
+\newblock In \emph{International Conference on Machine Learning}, pages
+  1604--1612.
+
+\end{thebibliography}

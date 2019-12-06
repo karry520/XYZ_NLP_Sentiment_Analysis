@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: mypaper.aux
+The style file: compling.bst
+Illegal, another \bibstyle command---line 49 of file mypaper.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Database file #1: mypaper.bib
+Warning--there's a number but no volume in mali
+You've used 22 entries,
+            2855 wiz_defined-function locations,
+            708 strings with 8832 characters,
+and the built_in function-call counts, 15512 in all, are:
+= -- 1234
+> -- 899
+< -- 13
++ -- 298
+- -- 270
+* -- 1176
+:= -- 2404
+add.period$ -- 88
+call.type$ -- 22
+change.case$ -- 208
+chr.to.int$ -- 22
+cite$ -- 23
+duplicate$ -- 1119
+empty$ -- 999
+format.name$ -- 347
+if$ -- 3078
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 218
+newline$ -- 114
+num.names$ -- 93
+pop$ -- 442
+preamble$ -- 1
+purify$ -- 171
+quote$ -- 0
+skip$ -- 391
+stack$ -- 0
+substring$ -- 712
+swap$ -- 567
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 198
+warning$ -- 1
+while$ -- 107
+width$ -- 0
+write$ -- 287
+(There was 1 error message)
